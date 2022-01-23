@@ -1,5 +1,4 @@
 # FoodsBySantana
-
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 
 ## Description
@@ -15,7 +14,6 @@ Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Consol
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
 ## Installation
-
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
 * Download latest version of `FoodsBySantana.modcomponent` from the [releases page](https://github.com/stmSantana/FoodsBySantana/releases/latest).
