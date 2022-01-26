@@ -1,6 +1,7 @@
 # FoodsBySantana
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
-
+![Foods](images/Foods-v1.1.jpg "foods") 
+ 
 ## Description v1.1
 Currently, version 1.1 only adds the following food items to the game:
 - ![Cup noodles](images/ico_GearItem__CupNoodles+1.png  "Cup noodles") ![Cup noodles Cooked](images/ico_GearItem__CupNoodlesOpen+1.png  "Cup noodles cooked") Cup Ramen
