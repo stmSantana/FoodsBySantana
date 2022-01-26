@@ -1,0 +1,315 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=BathroomCabinet
+#-----------------
+
+#-----------------
+loottable=Cabinet
+#-----------------
+item=CupNoodles w=1
+item=SoyRamen w=1
+
+#-----------------
+loottable=CargoClothingA
+#-----------------
+
+#-----------------
+loottable=CargoClothingB
+#-----------------
+
+#-----------------
+loottable=CargoClothingC
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareA
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareB
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareC
+#-----------------
+
+#-----------------
+loottable=CargoDrinkA
+#-----------------
+
+#-----------------
+loottable=CargoDrinkB
+#-----------------
+
+#-----------------
+loottable=CargoDrinkC
+#-----------------
+
+#-----------------
+loottable=CargoFire
+#-----------------
+
+#-----------------
+loottable=CargoFoodA
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=CargoFoodB
+#-----------------
+
+#-----------------
+loottable=CargoFoodC
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareA
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareB
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareC
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsA
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsB
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareA
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareB
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareC
+#-----------------
+
+#-----------------
+loottable=CargoMedical
+#-----------------
+
+#-----------------
+loottable=CargoMedicalRare
+#-----------------
+
+#-----------------
+loottable=CargoMiscA
+#-----------------
+
+#-----------------
+loottable=CargoMiscB
+#-----------------
+
+#-----------------
+loottable=CargoMiscC
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareA
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareB
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareC
+#-----------------
+
+#-----------------
+loottable=CargoRifle
+#-----------------
+
+#-----------------
+loottable=CargoShoes
+#-----------------
+
+#-----------------
+loottable=CargoTools
+#-----------------
+
+#-----------------
+loottable=CashRegister
+#-----------------
+
+#-----------------
+loottable=Dresser
+#-----------------
+item=CupNoodles w=1
+
+#-----------------
+loottable=EndTable_bedroom
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=2
+
+#-----------------
+loottable=FileCabinet
+#-----------------
+item=CupNoodles w=1
+item=SoyRamen w=1
+
+#-----------------
+loottable=FirstAidKit
+#-----------------
+
+#-----------------
+loottable=FishingDrawer
+#-----------------
+item=CupNoodles w=10
+item=SoyRamen w=5
+
+#-----------------
+loottable=FishingSaltWater
+#-----------------
+
+#-----------------
+loottable=FishingFreshWater
+#-----------------
+
+#-----------------
+loottable=ForestryCrate
+#-----------------
+
+#-----------------
+loottable=Freezer
+#-----------------
+
+#-----------------
+loottable=Fridge
+#-----------------
+item=CupNoodles w=1
+item=SoyRamen w=2
+
+#-----------------
+loottable=GenericCabinet
+#-----------------
+item=CupNoodles w=3
+item=SoyRamen w=3
+
+#-----------------
+loottable=HumanCorpse
+#-----------------
+item=CupNoodles w=5
+
+#-----------------
+loottable=HumanCorpseRare
+#-----------------
+
+#-----------------
+loottable=KitchenCupboard
+#-----------------
+item=CupNoodles w=10
+item=SoyRamen w=10
+
+#-----------------
+loottable=Laundry
+#-----------------
+
+#-----------------
+loottable=Locker
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=LockerLocked
+#-----------------
+item=CupNoodles w=1
+item=SoyRamen w=3
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=Oven
+#-----------------
+
+#-----------------
+loottable=PlasticBox
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=RifleSupplies
+#-----------------
+
+#-----------------
+loottable=Safe
+#-----------------
+
+#-----------------
+loottable=Stones
+#-----------------
+
+#-----------------
+loottable=Suitcase
+#-----------------
+item=CupNoodles w=2
+item=SoyRamen w=1
+
+#-----------------
+loottable=TideLine
+#-----------------
+item=CupNoodles w=1
+
+#-----------------
+loottable=ToolChest_sml
+#-----------------
+
+#-----------------
+loottable=ToolChest
+#-----------------
+
+#-----------------
+loottable=ToolChestDrawer
+#-----------------
+
+#-----------------
+loottable=VehicleGloveBox
+#-----------------
+item=CupNoodles w=1
+
+#-----------------
+loottable=VehicleTrunk
+#-----------------
+item=CupNoodles w=10
+item=SoyRamen w=5
+
+#-----------------
+loottable=VehicleTrunkLocked
+#-----------------
+item=CupNoodles w=5
+item=SoyRamen w=5
+
+#-----------------
+loottable=Wardrobe_regular
+#-----------------
+item=CupNoodles w=1
+item=SoyRamen w=1
+
+#-----------------
+loottable=Workbench
+#-----------------
+item=SoyRamen w=1
+
