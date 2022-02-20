@@ -2,8 +2,8 @@
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 ![Foods](images/Foods-v1.1.jpg "foods") 
  
-## Description v1.1
-Currently, version 1.1 only adds the following food items to the game:
+## Description v1.2
+Currently, version 1.2 only adds the following food items to the game:
 - ![Cup noodles](images/ico_GearItem__CupNoodles+1.png  "Cup noodles") ![Cup noodles Cooked](images/ico_GearItem__CupNoodlesOpen+1.png  "Cup noodles cooked") Cup Ramen (`add cupnoodles`)
 - ![Summit Ramen](images/ico_GearItem__SoyRamen+1.png  "Summit Ramen") ![Summit Ramen Cooked](images/ico_GearItem__SoyRamenCooked+1.png  "Summit Ramen cooked") Summit Ramen (`add soyramen`)
 
@@ -18,8 +18,9 @@ The item is fully integrated into the console and will appear in the auto-comple
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
-* Download latest version of `FoodsBySantana.modcomponent` from the [releases page](https://github.com/stmSantana/FoodsBySantana/releases/latest).
-* Move `FoodsBySantana.modcomponent` to your mods folder.
+* Download latest version of `FoodsBySantana.zip` from the [releases page](https://github.com/stmSantana/FoodsBySantana/releases/latest).
+* Move the two files in the downloaded ZIP to the Mods folder.
+**Note:** Zip files should not be moved to the Mods folder!
 
 ## Special Thanks
 The Long Dark Modding Server (discord)
