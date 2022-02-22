@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBzEzMj7ElRjm02ajEHepxuvdi7BNH5ThFyD7tHahgLvuAGAQBDJ5uLe91GbwKXXi3r8tHgfnpkWr5FTXKKzSQ==",
+  "success": true,
+  "projectFilePath": "G:\\mydoc\\The_Long_Dark\\~TEST-Mod\\TLD-Foods\\FoodsBySantana\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oni\\.nuget\\packages\\kardyne.tldbuildextensions\\1.0.0\\kardyne.tldbuildextensions.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
