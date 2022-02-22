@@ -1,0 +1,40 @@
+﻿{
+    "GAMEPLAY_CupNoodles" : {
+                            "English" : "Cup Ramen",
+                            "Japanese" : "カップラーメン"
+    },
+    "GAMEPLAY_CupNoodlesDescription" : {
+                            "English" : "Instant noodles are prepared by adding boiling water to the container, but you can also eat it without boiling. Don't put this on fire.",
+                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！"
+    },
+
+    "GAMEPLAY_CupNoodlesOpen" : {
+                            "English" : "Cup Ramen (Cooked)",
+                            "Japanese" : "カップラーメン (調理済み)"
+    },
+    "GAMEPLAY_CupNoodlesOpenDescription" : {
+                            "English" : "Instant noodles are prepared by adding boiling water to the container, but you can also eat it without boiling. Don't put this on fire.",
+                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！"
+    },
+
+
+
+    "GAMEPLAY_SoyRamen" : {
+                            "English" : "Summit Ramen",
+                            "Japanese" : "インスタントラーメン"
+    },
+    "GAMEPLAY_SoyRamenDescription" : {
+                            "English" : "All you need for instant noodles is a pot of boiling water, but you can also eat it without boiling. Even vegetarians can enjoy Soy Sauce flavors.",
+                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。"
+    },
+
+    "GAMEPLAY_SoyRamenCooked" : {
+                            "English" : "Summit Ramen (Cooked)",
+                            "Japanese" : "インスタントラーメン (調理済み)"
+    },
+    "GAMEPLAY_SoyRamenCookedDescription" : {
+                            "English" : "All you need for instant noodles is a pot of boiling water, but you can also eat it without boiling. Even vegetarians can enjoy Soy Sauce flavors.",
+                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。"
+    }
+
+}
