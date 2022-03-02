@@ -8,7 +8,6 @@ using HarmonyLib;
 
 namespace FoodsBySantana
 {
-    //[HarmonyPatch(typeof(PlayerManager), "ProcessPickupItemInteraction")]
     public class Patches
     {
         [HarmonyPatch(typeof(GameManager),"Awake")]
