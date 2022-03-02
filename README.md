@@ -20,7 +20,7 @@ The item is fully integrated into the console and will appear in the auto-comple
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
 * Download latest version of `FoodsBySantana.zip` from the [releases page](https://github.com/stmSantana/FoodsBySantana/releases/latest).
-* Move the two files in the downloaded ZIP to the Mods folder.
+* Move the two files in the downloaded ZIP to the Mods folder.<BR>
 **Note:** Zip files should not be moved to the Mods folder!
 
 ## Special Thanks
