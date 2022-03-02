@@ -1,6 +1,0 @@
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\obj\Debug\Code.csproj.AssemblyReference.cache
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\bin\Debug\FoodsBySantana.dll
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\bin\Debug\FoodsBySantana.pdb
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\obj\Debug\FoodsBySantana.dll
-G:\mydoc\The_Long_Dark\~TEST-Mod\TLD-Foods\FoodsBySantana\Code\obj\Debug\FoodsBySantana.pdb
