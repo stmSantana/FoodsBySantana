@@ -1,40 +1,48 @@
 ﻿{
     "GAMEPLAY_CupNoodles" : {
                             "English" : "Cup Ramen",
-                            "Japanese" : "カップラーメン"
+                            "Japanese" : "カップラーメン",
+                            "Russian" : "Чашка с рамэном"
     },
     "GAMEPLAY_CupNoodlesDescription" : {
                             "English" : "Instant noodles are prepared by adding boiling water to the container, but you can also eat it without boiling. Don't put this on fire.",
-                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！"
+                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！",
+                            "Russian" : "Лапша быстрого приготовления готовится путём добавления кипятка в ёмкость, но её можно есть и без кипячения. Не ставьте его на огонь."
     },
 
     "GAMEPLAY_CupNoodlesOpen" : {
                             "English" : "Cup Ramen (Cooked)",
-                            "Japanese" : "カップラーメン (調理済み)"
+                            "Japanese" : "カップラーメン (調理済み)",
+                            "Russian" : "Чашка с рамэном (Приготовлено)"
     },
     "GAMEPLAY_CupNoodlesOpenDescription" : {
                             "English" : "Instant noodles are prepared by adding boiling water to the container, but you can also eat it without boiling. Don't put this on fire.",
-                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！"
+                            "Japanese" : "カップラーメンは容器にお湯を注いで作りますが、茹でずに食べることもできます。火にかけないで下さい！",
+                            "Russian" : "Лапша быстрого приготовления готовится путём добавления кипятка в ёмкость, но её можно есть и без кипячения. Не ставьте его на огонь."
     },
 
 
 
     "GAMEPLAY_SoyRamen" : {
                             "English" : "Summit Ramen",
-                            "Japanese" : "インスタントラーメン"
+                            "Japanese" : "インスタントラーメン",
+                            "Russian" : "Сио рамэн"
     },
     "GAMEPLAY_SoyRamenDescription" : {
                             "English" : "All you need for instant noodles is a pot of boiling water, but you can also eat it without boiling. Even vegetarians can enjoy Soy Sauce flavors.",
-                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。"
+                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。",
+                            "Russian" : "Всё что вам нужно для быстрого приготовления лапши - это кастрюля с кипящей водой, но вы можете есть её и без кипячения. Даже вегетарианцы могут наслаждаться вкусом соевого соуса."
     },
 
     "GAMEPLAY_SoyRamenCooked" : {
                             "English" : "Summit Ramen (Cooked)",
-                            "Japanese" : "インスタントラーメン (調理済み)"
+                            "Japanese" : "インスタントラーメン (調理済み)",
+                            "Russian" : "Сио рамэн (Приготовлено)"
     },
     "GAMEPLAY_SoyRamenCookedDescription" : {
                             "English" : "All you need for instant noodles is a pot of boiling water, but you can also eat it without boiling. Even vegetarians can enjoy Soy Sauce flavors.",
-                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。"
+                            "Japanese" : "インスタントラーメンは鍋とお湯さえあれば調理できますが、茹でずに食べることもできます。ベジタリアンも楽しめる醤油味。",
+                            "Russian" : "Всё что вам нужно для быстрого приготовления лапши - это кастрюля с кипящей водой, но вы можете есть её и без кипячения. Даже вегетарианцы могут наслаждаться вкусом соевого соуса."
     }
 
 }
