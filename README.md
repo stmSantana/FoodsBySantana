@@ -9,8 +9,8 @@ Currently, version 1.2 only adds the following food items to the game:
 - ![Summit Ramen](images/ico_GearItem__SoyRamen+1.png  "Summit Ramen") ![Summit Ramen Cooked](images/ico_GearItem__SoyRamenCooked+1.png  "Summit Ramen cooked") Summit Ramen (`add soyramen`)
 
 ### Finding Items
-Currently the new item will be spawned while searching various locations, that should contain food or drink items, e.g. kitchen cupboards, back packs.
-I have also added spawns for all items in various locations. Some of those are guaranteed, others are randomized.
+- **Sapwn:** Currently the new item will be found while searching various locations, that should contain food or drink items, e.g. kitchen cupboards, back packs.
+- **Sapwn:** I have also added spawns for all items in various locations. Some of those are guaranteed, others are randomized. <br>(**NOTE:** *Gearspawner spawns all gear only on the first visit to each location. In other words, all mod items will not spawn in locations you have already visited.*)
 
 ### Adding Food Items
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) CupRamen can be manually added to your inventory with the command `add cupnoodles`.
